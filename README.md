@@ -61,7 +61,7 @@ false
 > IP.getMaskLength('255.255.255.254')
 31
 > IP.getMaskLength('0.0.0.0')
-32 // Oh god why
+0
 ```
 ##### IP.isIPv4(ip)
 ```
