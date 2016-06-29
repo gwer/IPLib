@@ -1,6 +1,16 @@
-# IP.js 
+# IPLib
 
-IP.js is a small library for working with IP addresses, subnets, masks. It's available in browser and in Node.js.
+IPLib is a small library for working with IP addresses, subnets, masks. It's available in browser and in Node.js.
+
+### Preparing
+##### In browser
+```
+<script src="ip.js"></script>
+```
+##### In Node.js
+`$ npm install iplib`
+
+`var IP = require('iplib')`
 
 ### Examples:
 ##### Notes:

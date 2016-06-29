@@ -1,0 +1,26 @@
+{
+  "name": "iplib",
+  "version": "1.0.0",
+  "description": "IPLib is a small library for working with IP addresses, subnets, masks. It's available in browser and in Node.js.",
+  "main": "ip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwer/IPLib.git"
+  },
+  "keywords": [
+    "ip",
+    "network",
+    "mask",
+    "node",
+    "browser"
+  ],
+  "author": "gwer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gwer/IPLib/issues"
+  },
+  "homepage": "https://github.com/gwer/IPLib#readme"
+}
